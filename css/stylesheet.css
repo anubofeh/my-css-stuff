@@ -1,0 +1,38 @@
+h1{
+background-color:#FFE4B5;
+font-family: georgia Italic;
+color: red;
+font-weight: bold
+
+}
+body{ 
+background-color: #ccb3ff;
+color: F0F8FF;
+font-family: helvetica;
+font-size: 16px
+font-weight: bold
+}
+p{
+font-family: Ariel, tahoma;
+
+}
+.music{
+margin: 5px 10px;
+border: 2px red solid;
+text-transform: underline; 
+}
+H2{ 
+font-family: helvetica;
+font-size: 16px;
+color:B8860B;
+font-weight: bold;
+text-deccoration:uppercase;
+}
+.music2{
+backgrond-color: 00FFFF:
+margin: 4px 0px;
+border: 2px red solid; 
+font-family: helvetica;
+font-size: 16px
+font-weight: bold
+}
